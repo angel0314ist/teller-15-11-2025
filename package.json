@@ -8,7 +8,7 @@
     "pack": "npm pack"
   },
   "keywords": [],
-  "author": "Tu Nombre",
+  "author": "Angel",
   "license": "MIT",
   "devDependencies": {
     "jest": "^29.0.0"
